@@ -11,10 +11,10 @@
         "@adobe/aem-site-template-builder": "^2.3.2"
     },
     "siteTemplate": {
-        "title": "AEM Site with Edge Delivery Services Template",
+        "title": "TA Skeleton Site with Edge Delivery Services Template",
         "createdBy": "Adobe",
         "useCases": [
-            "AEM Sites delivered with Edge Delivery Services",
+            "TA skeleton site delivered with Edge Delivery Services",
             "Edge Delivery Services"
         ],
         "docsUrl": "",
