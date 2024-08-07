@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aem-sites-with-edge-delivery-services-template"/>
+    <filter root="/content/ta-sample-edge-site"/>
+    <filter root="/content/dam"/>
+</workspaceFilter>
