@@ -20,7 +20,7 @@ It can serve as a standard starting point for creating a new site, or as a start
 
 ## Build locally
 **Important Notes:**
-- When naming your `conf/<folder>` and `content/<folder>`, and referencing them within your `filter.xml` file, the `<folder>` name must match this repo folder name. There may be another config to change that, but I haven't looked.
+- When naming your `conf/<folder>` and `content/<folder>`, and referencing them within your `filter.xml` file, the `<folder>` name must match this repo project name, as defined in the `package.json` > `name` attribute. There may be another config to change that, but I haven't looked.
 
 Alternatively you can build `aem-site-template-standard-{version}.zip` locally.
 

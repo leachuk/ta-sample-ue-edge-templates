@@ -3,7 +3,7 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:allowedTemplates="[/libs/core/franklin/templates/.*]"
-        cq:conf="/conf/aem-sites-with-edge-delivery-services-template"
+        cq:conf="/conf/ta-sample-ue-edge-templates"
         cq:template="[/libs/core/franklin/templates/page"
         jcr:primaryType="cq:PageContent"
         jcr:title="Tennis Site Skeleton"
